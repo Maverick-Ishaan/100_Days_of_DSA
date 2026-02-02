@@ -1,2 +1,2 @@
 # 100_Days_of_DSA
-100 Days of DSA
+100 Days of DSA by Ishaan Singh
